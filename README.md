@@ -2,6 +2,8 @@
 
 A cute and science-themed Pomodoro timer app to help you stay productive and focused!
 
+> ⚠️ **This project is still in development!** Features and design may change.
+
 ## Features
 
 - Customizable Pomodoro, short break, and long break durations
